@@ -36,6 +36,14 @@ In this way, the assembly relies on <i>gravity</i> and <i>geometric interlocking
 
 
 
+## Original Models on Tinkercad
+
+You can view and interact with the original 3D designs directly on Tinkercad:  
+
+- [Beam Binding Mod 1](https://www.tinkercad.com/things/8ZvYYCPgAwp-gagniuc-beam-binding-mod-1)  
+- [Beam Binding Mod 2](https://www.tinkercad.com/things/acZ6fLl6scF-gagniuc-beam-binding-mod-2)  
+- [Beam Binding Mod 3](https://www.tinkercad.com/things/ae3SANVkH5d-gagniuc-beam-binding-mod-3)  
+- [Beam Binding Mod 4](https://www.tinkercad.com/things/hHmCYtFYW13-gagniuc-beam-binding-mod-4)  
 
 
 
