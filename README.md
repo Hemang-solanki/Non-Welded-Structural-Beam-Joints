@@ -1,6 +1,6 @@
 # Modular Beam Connections (No Welding)
 
-This repository documents my 2023 entry for a design challenge focused on **rapid construction of buildings without the need for welding**. The goal was to find structural connection methods that are strong, modular, and easy to assemble/disassemble in the field. Although this project did not win the challenge, it represents an alternative approach to connecting beams securely while maintaining flexibility in construction. This beam system has never been 3D printed or physically tested; it exists only as a concept, designed and modeled digitally. I am curious whether a 3D print would function as intended.
+This repository documents my 2021 entry for a design challenge focused on **rapid construction of buildings without the need for welding**. The goal was to find structural connection methods that are strong, modular, and easy to assemble/disassemble in the field. Although this project did not win the challenge, it represents an alternative approach to connecting beams securely while maintaining flexibility in construction. This beam system has never been 3D printed or physically tested; it exists only as a concept, designed and modeled digitally. I am curious whether a 3D print would function as intended.
 
 ## Concept
 
