@@ -23,4 +23,4 @@ The design was created in CAD and exported as 3D models. Below are some previews
 This is a **conceptual project** and not yet tested in real-world construction. It is shared here as a resource and inspiration for further exploration of **modular building techniques**.  
 
 ---
-*Created in 2023 as part of a rapid construction challenge.*
+*Created in 2021 as part of a rapid construction challenge.*
