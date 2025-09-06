@@ -62,9 +62,22 @@ Insert the <i>horizontal I-beams</i> into the clamp slots until they meet at the
 The geometry of the clamp ensures correct alignment.  
 <i>Gravity</i> helps the beams settle firmly into position, beginning the self-lock effect.  
 
+<div align="center">
+  <img src="https://github.com/Gagniuc/Non-Welded-Structural-Beam-Joints/blob/main/img/beam-in.gif" alt="beam">
+</div>
+
 ### <b>Step 4 – Add Vertical Beams</b>  
 Place an <i>upright I-beam</i> into the vertical slot of the cross clamp.  
 The connector hugs the vertical member while staying anchored by the horizontal beams below.  
+
+<div align="center">
+  <img src="https://github.com/Gagniuc/Non-Welded-Structural-Beam-Joints/blob/main/img/pole-out.gif" alt="beam">
+</div>
+
+
+<div align="center">
+  <img src="https://github.com/Gagniuc/Non-Welded-Structural-Beam-Joints/blob/main/img/pole-in.gif" alt="beam">
+</div>
 
 ### <b>Step 5 – Add Locking Pads/Wedges (Optional)</b>  
 Insert the <i>small pads or wedges</i> into the clamp openings if extra tightening is needed.  
@@ -74,6 +87,10 @@ These elements prevent micro-movements and improve load distribution.
 Align <i>perforated plates</i> along the faces of the I-beams.  
 Use bolts or pins through the holes for additional rigidity.  
 This step is optional, as the gravity-locking geometry already secures the beams.  
+
+<div align="center">
+  <img src="https://github.com/Gagniuc/Non-Welded-Structural-Beam-Joints/blob/main/img/rotate.gif" alt="beam">
+</div>
 
 ---
 
