@@ -30,12 +30,6 @@ You can view and interact with the original 3D designs directly on Tinkercad:
 - [Beam Binding Mod 4](https://www.tinkercad.com/things/hHmCYtFYW13-gagniuc-beam-binding-mod-4)
 
 
-
-
-
-
-
-
 ### Assembly Procedure  
 
 <i>Step 1 – Positioning the connector</i>  
@@ -83,15 +77,9 @@ The mounting process is based on <b>gravity</b> and <b>geometry</b>:
 
 ---
 
-## Status  
-
-This system has <b>never been 3D printed, molded and physically tested</b>; it exists only as a concept, designed and modeled digitally. I am curious whether a real 3D print would function <i>as intended</i>.  
-
-
-
 ## Status
 
-This is a **conceptual project** and not yet tested in real-world construction. It is shared here as a resource and inspiration for further exploration of **modular building techniques**.  
+This is a **conceptual project** and not yet tested in real-world construction. It is shared here as a resource and inspiration for further exploration of **modular building techniques**. Moreover, this system has <b>never been 3D printed, molded and physically tested</b>; it exists only as a concept, designed and modeled digitally. I am curious whether a real 3D print would function <i>as intended</i>.  
 
 ---
 *Created in 2021 as part of a rapid construction challenge.*
