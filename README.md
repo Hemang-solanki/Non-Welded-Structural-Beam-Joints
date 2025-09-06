@@ -45,7 +45,9 @@ You can view and interact with the original 3D designs directly on Tinkercad:
 - [Beam Binding Mod 3](https://www.tinkercad.com/things/ae3SANVkH5d-gagniuc-beam-binding-mod-3)  
 - [Beam Binding Mod 4](https://www.tinkercad.com/things/hHmCYtFYW13-gagniuc-beam-binding-mod-4)  
 
-
+<div align="center">
+  <img src="https://github.com/Gagniuc/Non-Welded-Structural-Beam-Joints/blob/main/img/abstract-side.png" alt="beam">
+</div>
 
 ## Exploded Assembly Guide  
 
