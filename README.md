@@ -39,7 +39,7 @@ Place the cruciform connector at the intended joint location. The connector is o
 Insert the perforated I-section vertically into the central cavity of the connector. The geometry guides the profile into position, and gravity ensures the element seats itself in a self-locking manner.  
 
 <div align="center">
-  <img src="https://github.com/Gagniuc/Non-Welded-Structural-Beam-Joints/blob/main/img/pole-out.gif" alt="beam">
+  <img src="https://github.com/Gagniuc/Non-Welded-Structural-Beam-Joints/blob/main/img/pole-in.gif" alt="beam">
 </div>
 
 <i>Step 3 - Engaging horizontal beams</i>  
@@ -63,7 +63,7 @@ Repeat the process for adjacent axes. At corner or boundary nodes, only the avai
 The system can be dismantled by lifting the connector vertically off the column or sliding out the horizontal beams. The process is fully reversible and requires no welding or specialized tools.  
 
 <div align="center">
-  <img src="https://github.com/Gagniuc/Non-Welded-Structural-Beam-Joints/blob/main/img/pole-in.gif" alt="beam">
+  <img src="https://github.com/Gagniuc/Non-Welded-Structural-Beam-Joints/blob/main/img/pole-out.gif" alt="beam">
 </div>
 
 ---
