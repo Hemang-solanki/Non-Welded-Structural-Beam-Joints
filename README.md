@@ -32,34 +32,34 @@ You can view and interact with the original 3D designs directly on Tinkercad:
 
 ### Assembly Procedure  
 
-<i>Step 1 – Positioning the connector</i>  
+<i>Step 1 - Positioning the connector</i>  
 Place the cruciform connector at the intended joint location. The connector is oriented so that its protrusions align with the perforation grid of the beams.  
 
-<i>Step 2 – Inserting the vertical member</i>  
+<i>Step 2 - Inserting the vertical member</i>  
 Insert the perforated I-section vertically into the central cavity of the connector. The geometry guides the profile into position, and gravity ensures the element seats itself in a self-locking manner.  
 
 <div align="center">
   <img src="https://github.com/Gagniuc/Non-Welded-Structural-Beam-Joints/blob/main/img/pole-out.gif" alt="beam">
 </div>
 
-<i>Step 3 – Engaging horizontal beams</i>  
+<i>Step 3 - Engaging horizontal beams</i>  
 Slide horizontal perforated I-beams into the lateral openings of the connector. The protrusions of the connector engage with the cross-shaped perforations, preventing both translation and rotation of the beams.  
 
 <div align="center">
   <img src="https://github.com/Gagniuc/Non-Welded-Structural-Beam-Joints/blob/main/img/beam-in.gif" alt="beam">
 </div>
 
-<i>Step 4 – Ensuring alignment</i>  
+<i>Step 4 - Ensuring alignment</i>  
 Verify that all protrusions are fully seated in the beam perforations. This guarantees that the load transfer occurs through direct bearing and geometric interlock.  
 
-<i>Step 5 – Repetition and boundary nodes</i>  
+<i>Step 5 - Repetition and boundary nodes</i>  
 Repeat the process for adjacent axes. At corner or boundary nodes, only the available faces of the connector are used, leaving some protrusions unengaged.  
 
 <div align="center">
   <img src="https://github.com/Gagniuc/Non-Welded-Structural-Beam-Joints/blob/main/img/rotate.gif" alt="beam">
 </div>
 
-<i>Step 6 – Disassembly</i>  
+<i>Step 6 - Disassembly</i>  
 The system can be dismantled by lifting the connector vertically off the column or sliding out the horizontal beams. The process is fully reversible and requires no welding or specialized tools.  
 
 <div align="center">
